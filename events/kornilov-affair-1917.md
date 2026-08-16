@@ -3,7 +3,7 @@ title: "The Kornilov Affair (1917)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, war, military, revolution, politics, event]
+tags: "[russia, war, military, revolution, politics, event]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova
 confidence: high

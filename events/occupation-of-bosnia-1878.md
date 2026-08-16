@@ -3,7 +3,7 @@ title: "The Occupation of Bosnia-Herzegovina (1878)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [austria-hungary, balkans, occupation, military, war, eastern-question, event]
+tags: "[austria-hungary, balkans, occupation, military, war, eastern-question, event]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd1-1914
 confidence: high

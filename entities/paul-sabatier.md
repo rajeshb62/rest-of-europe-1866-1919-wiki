@@ -3,7 +3,7 @@ title: "Paul Sabatier (1858–1928)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, third-republic, anticlericalism-separation, church, person]
+tags: "[france, third-republic, anticlericalism-separation, church, person]"
 sources:
   - source: sabatier-orientation-religieuse-france-1911
 confidence: high

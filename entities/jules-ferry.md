@@ -3,7 +3,7 @@ title: "Jules Ferry (1832–1893)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, republicanism, anticlericalism, person, third-republic]
+tags: "[france, republicanism, anticlericalism, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t4
 confidence: medium

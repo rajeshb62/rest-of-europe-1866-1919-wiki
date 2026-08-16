@@ -3,7 +3,7 @@ title: "Adolphe Thiers (1797–1877)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, liberalism, parliament, person, third-republic]
+tags: "[france, liberalism, parliament, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
 confidence: high

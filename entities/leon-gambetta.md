@@ -3,7 +3,7 @@ title: "Léon Gambetta (1838–1882)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, republicanism, parliament, person, third-republic]
+tags: "[france, republicanism, parliament, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
   - source: hanotaux-histoire-france-contemporaine-t2

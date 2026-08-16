@@ -3,7 +3,7 @@ title: "Sergei Witte (1849–1915)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, finance, industrialization, constitution, person]
+tags: "[russia, finance, industrialization, constitution, person]"
 sources:
   - source: witte-vospominaniya-t1-detstvo-aleksandr-ii-iii-1960
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960

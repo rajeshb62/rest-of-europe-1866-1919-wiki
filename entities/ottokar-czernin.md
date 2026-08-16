@@ -3,7 +3,7 @@ title: "Ottokar Graf Czernin (1872–1932)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, diplomacy, war, wwi, peace, monarchy, person]
+tags: "[austria-hungary, diplomacy, war, wwi, peace, monarchy, person]"
 sources:
   - source: czernin-im-weltkriege-1919
 confidence: medium

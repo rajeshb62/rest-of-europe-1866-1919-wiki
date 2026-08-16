@@ -3,7 +3,7 @@ title: "The North German Confederation (1867–1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, prussia, constitution, parliament, unification, metatype]
+tags: "[germany, prussia, constitution, parliament, unification, metatype]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol6

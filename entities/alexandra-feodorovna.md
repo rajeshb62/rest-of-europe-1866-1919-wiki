@@ -3,7 +3,7 @@ title: "Empress Alexandra Feodorovna (1872–1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, monarchy, church, person]
+tags: "[russia, monarchy, church, person]"
 sources:
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t2

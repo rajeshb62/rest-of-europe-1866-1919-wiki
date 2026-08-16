@@ -3,7 +3,7 @@ title: "The Law of Guarantees (13 May 1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, rome, church, constitution, anti-clericalism, roman-question]
+tags: "[italy, rome, church, constitution, anti-clericalism, roman-question]"
 sources:
   - source: oriani-la-lotta-politica-in-italia-vol3-1892
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870

@@ -3,7 +3,7 @@ title: "Napoleon III (1808–1873)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, monarchy, empire, second-empire-france, bonapartism, person]
+tags: "[france, monarchy, empire, second-empire-france, bonapartism, person]"
 sources:
   - source: delord-histoire-second-empire-t5
   - source: ollivier-empire-liberal-t14

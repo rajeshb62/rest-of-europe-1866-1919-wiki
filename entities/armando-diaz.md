@@ -3,7 +3,7 @@ title: "Armando Diaz (1861–1928)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, war, wwi, military, front, person]
+tags: "[italy, war, wwi, military, front, person]"
 sources:
   - source: comando-supremo-la-battaglia-di-vittorio-veneto-1918
   - source: cadorna-la-guerra-alla-fronte-italiana-vol2-1921

@@ -3,7 +3,7 @@ title: "Alexander Kerensky (1881–1970)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, revolution, parliament, wwi, person]
+tags: "[russia, revolution, parliament, wwi, person]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova

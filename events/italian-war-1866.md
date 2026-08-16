@@ -3,7 +3,7 @@ title: "The Italian War of 1866"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, military, navy, risorgimento, unification, event]
+tags: "[italy, austria-hungary, war, military, navy, risorgimento, unification, event]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo2-1859-1866
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870

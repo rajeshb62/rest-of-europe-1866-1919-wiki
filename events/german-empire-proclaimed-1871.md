@@ -3,7 +3,7 @@ title: "Proclamation of the German Empire (18 January 1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [germany, prussia, unification, monarchy, event]
+tags: "[germany, prussia, unification, monarchy, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
 confidence: medium

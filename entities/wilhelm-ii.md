@@ -3,7 +3,7 @@ title: "Wilhelm II (1859–1941)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [germany, prussia, monarchy, war, wwi, diplomacy, person]
+tags: "[germany, prussia, monarchy, war, wwi, diplomacy, person]"
 sources:
   - source: czernin-im-weltkriege-1919
   - source: lenz-geschichte-bismarcks-1902

@@ -3,7 +3,7 @@ title: "Carlo Tivaroni (1826–1898)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, risorgimento, historian, person]
+tags: "[italy, risorgimento, historian, person]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo2-1859-1866
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870

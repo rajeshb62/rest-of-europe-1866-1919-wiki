@@ -3,7 +3,7 @@ title: "Luigi Cadorna (1850–1928)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, war, wwi, military, front, person]
+tags: "[italy, war, wwi, military, front, person]"
 sources:
   - source: cadorna-la-guerra-alla-fronte-italiana-vol1-1923
   - source: cadorna-la-guerra-alla-fronte-italiana-vol2-1921

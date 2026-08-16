@@ -3,7 +3,7 @@ title: "The Stab-in-the-Back Legend"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, war, revolution, ideology, doctrine, wwi, concept]
+tags: "[germany, war, revolution, ideology, doctrine, wwi, concept]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
 confidence: high

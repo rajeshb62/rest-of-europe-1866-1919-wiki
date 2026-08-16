@@ -3,7 +3,7 @@ title: "The Magyars and Magyarization"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [hungary, nationalism, magyars, magyarization, metatype]
+tags: "[hungary, nationalism, magyars, magyarization, metatype]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
   - source: beksics-a-magyar-faj-terjeszkedese-1896

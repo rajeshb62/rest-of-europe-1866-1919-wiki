@@ -3,7 +3,7 @@ title: "Treaty of Frankfurt (10 May 1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, war, treaty, event]
+tags: "[france, germany, war, treaty, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
 confidence: high

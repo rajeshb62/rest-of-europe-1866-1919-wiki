@@ -3,7 +3,7 @@ title: "The Battle of Galicia (1914)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [austria-hungary, russia, war, military, front, wwi, battle]
+tags: "[austria-hungary, russia, war, military, front, wwi, battle]"
 sources:
   - source: conrad-aus-meiner-dienstzeit-bd4-1923
   - source: recouly-histoire-grande-guerre-1914-1918

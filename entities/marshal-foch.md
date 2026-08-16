@@ -3,7 +3,7 @@ title: "Ferdinand Foch (1851–1929)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, military, war, wwi, army, front, person]
+tags: "[france, military, war, wwi, army, front, person]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
   - source: cadorna-la-guerra-alla-fronte-italiana-vol1-1923

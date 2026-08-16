@@ -3,7 +3,7 @@ title: "The Battle of Sedan (1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, prussia, war, military, battle, event]
+tags: "[france, germany, prussia, war, military, battle, event]"
 sources:
   - source: ollivier-empire-liberal-t16
   - source: hanotaux-histoire-france-contemporaine-t1

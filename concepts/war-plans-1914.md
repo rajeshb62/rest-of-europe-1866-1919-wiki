@@ -3,7 +3,7 @@ title: "The War Plans of August 1914"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, france, austria-hungary, russia, war, military, doctrine, wwi, concept]
+tags: "[germany, france, austria-hungary, russia, war, military, doctrine, wwi, concept]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
   - source: conrad-aus-meiner-dienstzeit-bd4-1923

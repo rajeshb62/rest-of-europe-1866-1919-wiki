@@ -3,7 +3,7 @@ title: "Franz Joseph (1830–1916)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, hungary, monarchy, constitution, wwi, person]
+tags: "[austria-hungary, hungary, monarchy, constitution, wwi, person]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
   - source: beksics-a-dualismus-1892

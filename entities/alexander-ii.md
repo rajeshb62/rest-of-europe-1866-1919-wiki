@@ -3,7 +3,7 @@ title: "Alexander II (1818–1881)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, monarchy, reform, revolution, person]
+tags: "[russia, monarchy, reform, revolution, person]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: witte-vospominaniya-t1-detstvo-aleksandr-ii-iii-1960

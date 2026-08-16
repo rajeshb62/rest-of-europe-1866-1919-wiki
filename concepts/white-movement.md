@@ -3,7 +3,7 @@ title: "The White Movement"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, war, civil-war, revolution, military, counter-revolution, concept]
+tags: "[russia, war, civil-war, revolution, military, counter-revolution, concept]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova

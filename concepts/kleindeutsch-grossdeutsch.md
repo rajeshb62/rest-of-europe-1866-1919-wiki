@@ -3,7 +3,7 @@ title: "Kleindeutsch and Grossdeutsch (c. 1815–1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, prussia, nationalism, unification, german-question, metatype]
+tags: "[germany, prussia, nationalism, unification, german-question, metatype]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol6

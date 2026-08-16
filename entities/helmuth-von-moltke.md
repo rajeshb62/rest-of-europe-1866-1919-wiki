@@ -3,7 +3,7 @@ title: "Helmuth von Moltke the Elder (1800–1891)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [germany, prussia, war, military, army, unification, person]
+tags: "[germany, prussia, war, military, army, unification, person]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol5

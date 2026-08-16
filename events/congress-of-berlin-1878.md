@@ -3,7 +3,7 @@ title: "The Congress of Berlin (1878)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [balkans, russia, ottoman, diplomacy, eastern-question, occupation, event]
+tags: "[balkans, russia, ottoman, diplomacy, eastern-question, occupation, event]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd1-1914
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914

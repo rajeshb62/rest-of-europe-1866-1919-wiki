@@ -3,7 +3,7 @@ title: "Paris Commune (18 March – 28 May 1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, revolution, socialism, event]
+tags: "[france, revolution, socialism, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
 confidence: high

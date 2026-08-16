@@ -3,7 +3,7 @@ title: "The Southern Question (questione meridionale)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [italy, southern-question, economy, society, liberalism, unification, concept]
+tags: "[italy, southern-question, economy, society, liberalism, unification, concept]"
 sources:
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol1-1911
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol2-1911

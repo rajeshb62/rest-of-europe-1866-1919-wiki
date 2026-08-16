@@ -3,7 +3,7 @@ title: "The Battles of the Isonzo (1915–1917)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, wwi, front, military, irredentism]
+tags: "[italy, austria-hungary, war, wwi, front, military, irredentism]"
 sources:
   - source: cadorna-la-guerra-alla-fronte-italiana-vol2-1921
   - source: cadorna-la-guerra-alla-fronte-italiana-vol1-1923

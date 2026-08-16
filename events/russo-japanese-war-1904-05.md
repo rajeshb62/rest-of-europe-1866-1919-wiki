@@ -3,7 +3,7 @@ title: "Russo-Japanese War (1904–1905)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, japan, war, navy, empire, diplomacy]
+tags: "[russia, japan, war, navy, empire, diplomacy]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
 confidence: high

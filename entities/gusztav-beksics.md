@@ -3,7 +3,7 @@ title: "Gusztáv Beksics (1847–1906)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [hungary, austria-hungary, dualism, person]
+tags: "[hungary, austria-hungary, dualism, person]"
 sources:
   - source: beksics-a-dualismus-1892
   - source: beksics-a-magyar-faj-terjeszkedese-1896

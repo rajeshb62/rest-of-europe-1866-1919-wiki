@@ -3,7 +3,7 @@ title: "Comte de Chambord, Henri V (1820–1883)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, monarchy, person, third-republic]
+tags: "[france, monarchy, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
   - source: hanotaux-histoire-france-contemporaine-t2

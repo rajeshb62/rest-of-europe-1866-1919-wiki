@@ -3,7 +3,7 @@ title: "The Luxembourg Crisis (1867)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, prussia, diplomacy, crisis, war, alliance, event]
+tags: "[france, germany, prussia, diplomacy, crisis, war, alliance, event]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol7
   - source: ollivier-empire-liberal-t11

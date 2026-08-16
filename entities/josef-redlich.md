@@ -3,7 +3,7 @@ title: "Josef Redlich (1869–1936)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, constitution, parliament, wwi, person]
+tags: "[austria-hungary, constitution, parliament, wwi, person]"
 sources:
   - source: redlich-osterreichische-regierung-und-verwaltung-im-weltkriege-1925
 confidence: high

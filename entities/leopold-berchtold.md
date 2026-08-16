@@ -3,7 +3,7 @@ title: "Count Leopold Berchtold (1863–1942)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, diplomacy, balkans, war, wwi, eastern-question, person]
+tags: "[austria-hungary, diplomacy, balkans, war, wwi, eastern-question, person]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914
   - source: conrad-aus-meiner-dienstzeit-bd2-1922

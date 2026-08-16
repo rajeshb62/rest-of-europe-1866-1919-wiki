@@ -3,7 +3,7 @@ title: "Charles Péguy (1873–1914)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, third-republic, socialism, republicanism-france, dreyfus-affair, mystique-politique, person]
+tags: "[france, third-republic, socialism, republicanism-france, dreyfus-affair, mystique-politique, person]"
 sources:
   - source: peguy-notre-jeunesse-1910
 confidence: high

@@ -3,7 +3,7 @@ title: "The Battle of Adua (1 March 1896)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, war, empire, colonialism, ethiopia, military, church]
+tags: "[italy, war, empire, colonialism, ethiopia, military, church]"
 sources:
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol2-1911
   - source: oriani-la-lotta-politica-in-italia-vol3-1892

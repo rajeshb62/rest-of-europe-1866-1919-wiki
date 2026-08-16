@@ -3,7 +3,7 @@ title: "The Franco-Prussian War (1870–71)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, prussia, war, military, occupation, war-event]
+tags: "[france, germany, prussia, war, military, occupation, war-event]"
 sources:
   - source: ollivier-empire-liberal-t14
   - source: ollivier-empire-liberal-t16

@@ -3,7 +3,7 @@ title: "The Armistice of 11 November 1918"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, war, wwi, diplomacy, occupation]
+tags: "[france, germany, war, wwi, diplomacy, occupation]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
   - source: comando-supremo-la-battaglia-di-vittorio-veneto-1918

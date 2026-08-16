@@ -3,7 +3,7 @@ title: "Benedetto Cairoli (1825–1889)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, parliament, risorgimento, irredentism, southern-question-italy, person]
+tags: "[italy, parliament, risorgimento, irredentism, southern-question-italy, person]"
 sources:
   - source: oriani-la-lotta-politica-in-italia-vol3-1892
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol1-1911

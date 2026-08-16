@@ -3,7 +3,7 @@ title: "Constitution of 1875 (February–July 1875)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, constitution, parliament, event]
+tags: "[france, constitution, parliament, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t3
 confidence: high

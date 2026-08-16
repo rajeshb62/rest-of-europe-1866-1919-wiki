@@ -3,7 +3,7 @@ title: "Kálmán Tisza (1830–1902)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [hungary, austria-hungary, parliament, dualism-austria-hungary, magyars-magyarization, person]
+tags: "[hungary, austria-hungary, parliament, dualism-austria-hungary, magyars-magyarization, person]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
 confidence: high

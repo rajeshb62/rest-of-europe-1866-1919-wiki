@@ -3,7 +3,7 @@ title: "Anticlericalism and the Separation (Laïcité)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, church, religion, anticlericalism, revolution, state]
+tags: "[france, church, religion, anticlericalism, revolution, state]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t3
   - source: hanotaux-histoire-france-contemporaine-t4

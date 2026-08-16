@@ -3,7 +3,7 @@ title: "Austria-Hungary's Balkan Policy"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [austria-hungary, balkans, diplomacy, nationalism, eastern-question, concept]
+tags: "[austria-hungary, balkans, diplomacy, nationalism, eastern-question, concept]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd1-1914
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914

@@ -3,7 +3,7 @@ title: "The Battle of Caporetto (24 October – 12 November 1917)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, germany, war, wwi, military, front]
+tags: "[italy, austria-hungary, germany, war, wwi, military, front]"
 sources:
   - source: cadorna-la-guerra-alla-fronte-italiana-vol2-1921
 confidence: high

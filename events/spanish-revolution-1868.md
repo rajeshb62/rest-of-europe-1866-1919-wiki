@@ -3,7 +3,7 @@ title: "The Spanish Revolution (1868)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [spain, revolution, monarchy, diplomacy, liberalism, war, event]
+tags: "[spain, revolution, monarchy, diplomacy, liberalism, war, event]"
 sources:
   - source: ollivier-empire-liberal-t11
   - source: sybel-begrundung-des-deutschen-reiches-vol7

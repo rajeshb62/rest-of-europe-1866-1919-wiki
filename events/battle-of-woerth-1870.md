@@ -3,7 +3,7 @@ title: "The Battle of Wörth (1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, prussia, war, battle, military, event]
+tags: "[france, germany, prussia, war, battle, military, event]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol7
   - source: ollivier-empire-liberal-t16

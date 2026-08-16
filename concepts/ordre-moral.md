@@ -3,7 +3,7 @@ title: "Ordre moral (1873–1874)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, conservatism, monarchy, church, religion, parliament]
+tags: "[france, conservatism, monarchy, church, religion, parliament]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
   - source: hanotaux-histoire-france-contemporaine-t2

@@ -3,7 +3,7 @@ title: "Nikolai Zhevakhov (1874–1946)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, church, monarchy, revolution, person]
+tags: "[russia, church, monarchy, revolution, person]"
 sources:
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t2

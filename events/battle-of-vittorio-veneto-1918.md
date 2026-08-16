@@ -3,7 +3,7 @@ title: "The Battle of Vittorio Veneto (24 October – 4 November 1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, wwi, military, front, armistice]
+tags: "[italy, austria-hungary, war, wwi, military, front, armistice]"
 sources:
   - source: comando-supremo-la-battaglia-di-vittorio-veneto-1918
   - source: cadorna-la-guerra-alla-fronte-italiana-vol2-1921

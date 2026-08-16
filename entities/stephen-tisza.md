@@ -3,7 +3,7 @@ title: "Count István (Stephen) Tisza (1861–1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [hungary, austria-hungary, parliament, wwi, person]
+tags: "[hungary, austria-hungary, parliament, wwi, person]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
   - source: redlich-osterreichische-regierung-und-verwaltung-im-weltkriege-1925

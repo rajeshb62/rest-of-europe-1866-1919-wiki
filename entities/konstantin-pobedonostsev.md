@@ -3,7 +3,7 @@ title: "Konstantin Pobedonostsev (1827–1907)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, church, conservatism, monarchy, person]
+tags: "[russia, church, conservatism, monarchy, person]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1

@@ -3,7 +3,7 @@ title: "Jules Simon (1814–1896)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, republicanism, liberalism, philosophy, person, third-republic]
+tags: "[france, republicanism, liberalism, philosophy, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t3
   - source: ollivier-empire-liberal-t16

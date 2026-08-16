@@ -3,7 +3,7 @@ title: "Battle of Königgrätz (3 July 1866)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [germany, prussia, austria-hungary, war, battle, unification, german-question]
+tags: "[germany, prussia, austria-hungary, war, battle, unification, german-question]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol5
 confidence: high

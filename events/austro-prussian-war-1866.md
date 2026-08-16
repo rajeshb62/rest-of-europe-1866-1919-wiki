@@ -3,7 +3,7 @@ title: "The Austro-Prussian War (June–August 1866)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [germany, prussia, austria-hungary, italy, war, unification, german-question]
+tags: "[germany, prussia, austria-hungary, italy, war, unification, german-question]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol4
   - source: sybel-begrundung-des-deutschen-reiches-vol5

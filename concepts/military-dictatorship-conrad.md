@@ -3,7 +3,7 @@ title: "Conrad's Military Dictatorship and the Doctrine of Preventive War"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [austria-hungary, war, military, doctrine, monarchy, concept]
+tags: "[austria-hungary, war, military, doctrine, monarchy, concept]"
 sources:
   - source: conrad-aus-meiner-dienstzeit-bd3-1923
   - source: conrad-aus-meiner-dienstzeit-bd2-1922

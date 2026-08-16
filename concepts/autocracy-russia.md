@@ -3,7 +3,7 @@ title: "Russian Autocracy"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, monarchy, constitution, conservatism, doctrine, concept]
+tags: "[russia, monarchy, constitution, conservatism, doctrine, concept]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t2

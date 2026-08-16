@@ -3,7 +3,7 @@ title: "Franz Graf Conrad von Hötzendorf (1852–1925)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, war, military, nationalism, wwi, eastern-question, person]
+tags: "[austria-hungary, war, military, nationalism, wwi, eastern-question, person]"
 sources:
   - source: conrad-aus-meiner-dienstzeit-bd1-1921
   - source: conrad-aus-meiner-dienstzeit-bd2-1922

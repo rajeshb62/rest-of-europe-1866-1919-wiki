@@ -3,7 +3,7 @@ title: "The Septennat (20 November 1873)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, constitution, monarchy, parliament, event]
+tags: "[france, constitution, monarchy, parliament, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t2
 confidence: high

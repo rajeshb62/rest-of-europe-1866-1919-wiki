@@ -3,7 +3,7 @@ title: "Italy's Entry into the First World War (May 1915)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, diplomacy, alliance, wwi]
+tags: "[italy, austria-hungary, war, diplomacy, alliance, wwi]"
 sources:
   - source: cadorna-la-guerra-alla-fronte-italiana-vol1-1923
   - source: czernin-im-weltkriege-1919

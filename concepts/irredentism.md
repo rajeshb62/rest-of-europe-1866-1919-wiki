@@ -3,7 +3,7 @@ title: "Irredentism (Italia irredenta)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [italy, nationalism, irredentism, wwi, austria-hungary, concept]
+tags: "[italy, nationalism, irredentism, wwi, austria-hungary, concept]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870
   - source: cadorna-la-guerra-alla-fronte-italiana-vol1-1923

@@ -3,7 +3,7 @@ title: "Albrecht von Roon (1803–1879)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [germany, prussia, conservatism, war, military, army, constitution, person]
+tags: "[germany, prussia, conservatism, war, military, army, constitution, person]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
 confidence: high

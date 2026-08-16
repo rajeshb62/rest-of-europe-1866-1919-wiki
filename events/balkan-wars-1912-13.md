@@ -3,7 +3,7 @@ title: "The Balkan Wars (1912–13)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [balkans, ottoman, austria-hungary, russia, war, diplomacy, eastern-question, event]
+tags: "[balkans, ottoman, austria-hungary, russia, war, diplomacy, eastern-question, event]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914
   - source: conrad-aus-meiner-dienstzeit-bd2-1922

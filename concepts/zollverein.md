@@ -3,7 +3,7 @@ title: "The Zollverein (1834–1871)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, prussia, industrialization, unification, finance, metatype]
+tags: "[germany, prussia, industrialization, unification, finance, metatype]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol6

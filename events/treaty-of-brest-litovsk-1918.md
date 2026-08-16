@@ -3,7 +3,7 @@ title: "The Treaty of Brest-Litovsk (1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, germany, austria-hungary, diplomacy, war, treaty, wwi]
+tags: "[russia, germany, austria-hungary, diplomacy, war, treaty, wwi]"
 sources:
   - source: czernin-im-weltkriege-1919
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova

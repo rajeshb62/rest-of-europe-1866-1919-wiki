@@ -3,7 +3,7 @@ title: "Patrice de Mac-Mahon (1808–1893)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, conservatism, monarchy, military, person, third-republic]
+tags: "[france, conservatism, monarchy, military, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t2
   - source: hanotaux-histoire-france-contemporaine-t3

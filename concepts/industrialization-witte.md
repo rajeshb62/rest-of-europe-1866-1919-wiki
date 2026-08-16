@@ -3,7 +3,7 @@ title: "Witte's Industrialization"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, industrialization, finance, economy, concept]
+tags: "[russia, industrialization, finance, economy, concept]"
 sources:
   - source: granat-istoriya-rossii-xix-veke-t8
   - source: witte-vospominaniya-t1-detstvo-aleksandr-ii-iii-1960

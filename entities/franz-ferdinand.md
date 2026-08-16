@@ -3,7 +3,7 @@ title: "Archduke Franz Ferdinand (1863–1914)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [austria-hungary, monarchy, war, military, sarajevo, person]
+tags: "[austria-hungary, monarchy, war, military, sarajevo, person]"
 sources:
   - source: erzherzog-franz-ferdinand-50-geburtstag-1913
   - source: sosnosky-die-politik-im-habsburgerreiche-1913

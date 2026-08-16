@@ -3,7 +3,7 @@ title: "Count Gyula Andrássy (1823–1890)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [hungary, austria-hungary, diplomacy, occupation, alliance, person]
+tags: "[hungary, austria-hungary, diplomacy, occupation, alliance, person]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
   - source: beksics-a-dualismus-1892

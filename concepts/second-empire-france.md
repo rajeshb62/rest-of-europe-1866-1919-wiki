@@ -3,7 +3,7 @@ title: "Second Empire, France (1852–1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, empire, monarchy, revolution, nationalism, ideology]
+tags: "[france, empire, monarchy, revolution, nationalism, ideology]"
 sources:
   - source: delord-histoire-second-empire-t5
   - source: ollivier-empire-liberal-t11

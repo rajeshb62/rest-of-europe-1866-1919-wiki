@@ -3,7 +3,7 @@ title: "Trasformismo"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [italy, parliament, liberalism, politics, transformism, concept]
+tags: "[italy, parliament, liberalism, politics, transformism, concept]"
 sources:
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol1-1911
   - source: oriani-la-lotta-politica-in-italia-vol3-1892

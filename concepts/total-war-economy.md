@@ -3,7 +3,7 @@ title: "The Total War Economy"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [austria-hungary, germany, war, economy, finance, industrialization, wwi, concept]
+tags: "[austria-hungary, germany, war, economy, finance, industrialization, wwi, concept]"
 sources:
   - source: redlich-osterreichische-regierung-und-verwaltung-im-weltkriege-1925
   - source: czernin-im-weltkriege-1919

@@ -3,7 +3,7 @@ title: "Roman Question (1866–1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [italy, papacy, france, diplomacy, church]
+tags: "[italy, papacy, france, diplomacy, church]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870
   - source: oriani-la-lotta-politica-in-italia-vol3-1892

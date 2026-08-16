@@ -3,7 +3,7 @@ title: "Trialism"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [austria-hungary, nationalism, constitution, trialism, metatype]
+tags: "[austria-hungary, nationalism, constitution, trialism, metatype]"
 sources:
   - source: sosnosky-die-politik-im-habsburgerreiche-1913
   - source: redlich-osterreichische-regierung-und-verwaltung-im-weltkriege-1925

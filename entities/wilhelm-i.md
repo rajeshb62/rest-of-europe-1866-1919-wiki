@@ -3,7 +3,7 @@ title: "Wilhelm I (1797–1888)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [germany, prussia, monarchy, constitution, army, war, unification, person]
+tags: "[germany, prussia, monarchy, constitution, army, war, unification, person]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol4

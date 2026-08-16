@@ -3,7 +3,7 @@ title: "Narodnaya Volya (The People's Will)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, revolution, socialism, terrorism, movement, concept]
+tags: "[russia, revolution, socialism, terrorism, movement, concept]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: witte-vospominaniya-t1-detstvo-aleksandr-ii-iii-1960

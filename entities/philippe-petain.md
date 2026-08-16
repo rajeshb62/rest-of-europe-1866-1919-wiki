@@ -3,7 +3,7 @@ title: "Philippe Pétain (1856–1951)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, military, war, wwi, army, front, person]
+tags: "[france, military, war, wwi, army, front, person]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
 confidence: high

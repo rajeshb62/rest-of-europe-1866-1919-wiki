@@ -3,7 +3,7 @@ title: "Hohenzollern Candidature (1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, prussia, germany, spain, diplomacy, war, crisis, event]
+tags: "[france, prussia, germany, spain, diplomacy, war, crisis, event]"
 sources:
   - source: ollivier-empire-liberal-t14
   - source: sybel-begrundung-des-deutschen-reiches-vol7

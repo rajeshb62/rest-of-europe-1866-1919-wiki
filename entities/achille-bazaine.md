@@ -3,7 +3,7 @@ title: "Achille Bazaine (1811–1888)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, war, military, franco-prussian-war, second-empire-france, person]
+tags: "[france, war, military, franco-prussian-war, second-empire-france, person]"
 sources:
   - source: ollivier-empire-liberal-t16
   - source: hanotaux-histoire-france-contemporaine-t1

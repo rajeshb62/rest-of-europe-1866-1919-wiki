@@ -3,7 +3,7 @@ title: "General Sergei Markov (1878–1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, war, military, person]
+tags: "[russia, war, military, person]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova

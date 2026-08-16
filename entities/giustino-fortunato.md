@@ -3,7 +3,7 @@ title: "Giustino Fortunato (1848–1932)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, southern-question, parliament, liberalism, economy, politics, person]
+tags: "[italy, southern-question, parliament, liberalism, economy, politics, person]"
 sources:
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol1-1911
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol2-1911

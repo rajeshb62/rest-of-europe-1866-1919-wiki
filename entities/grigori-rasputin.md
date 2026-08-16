@@ -3,7 +3,7 @@ title: "Grigori Rasputin (1869–1916)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, church, monarchy, scandal, person]
+tags: "[russia, church, monarchy, scandal, person]"
 sources:
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960

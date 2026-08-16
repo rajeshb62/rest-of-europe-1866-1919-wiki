@@ -3,7 +3,7 @@ title: "The Zemstvo and the Great Reforms"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, reform, institution, liberalism, constitution, concept]
+tags: "[russia, reform, institution, liberalism, constitution, concept]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: granat-istoriya-rossii-xix-veke-t8

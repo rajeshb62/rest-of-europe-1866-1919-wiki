@@ -3,7 +3,7 @@ title: "Mystique and Politique (Péguy)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, third-republic, dreyfus-affair, religion, intellectual-history, ideology]
+tags: "[france, third-republic, dreyfus-affair, religion, intellectual-history, ideology]"
 sources:
   - source: peguy-notre-jeunesse-1910
   - source: sabatier-orientation-religieuse-france-1911

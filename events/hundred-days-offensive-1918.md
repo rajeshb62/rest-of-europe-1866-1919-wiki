@@ -3,7 +3,7 @@ title: "The Hundred Days Offensive (August–November 1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, germany, war, military, battle, wwi]
+tags: "[france, germany, war, military, battle, wwi]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
   - source: comando-supremo-la-battaglia-di-vittorio-veneto-1918

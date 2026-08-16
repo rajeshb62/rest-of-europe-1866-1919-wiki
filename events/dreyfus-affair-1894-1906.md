@@ -3,7 +3,7 @@ title: "Dreyfus Affair (1894–1906)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, third-republic, dreyfus-affair, antisemitism, army, revolution, event]
+tags: "[france, third-republic, dreyfus-affair, antisemitism, army, revolution, event]"
 sources:
   - source: peguy-notre-jeunesse-1910
   - source: lagardelle-socialisme-ouvrier-1911

@@ -3,7 +3,7 @@ title: "The Brusilov Offensive (June–September 1916)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, austria-hungary, war, military, front, wwi]
+tags: "[russia, austria-hungary, war, military, front, wwi]"
 sources:
   - source: recouly-histoire-grande-guerre-1914-1918
 confidence: high

@@ -3,7 +3,7 @@ title: "The First Kuban (Ice) March (1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, war, military, revolution, event]
+tags: "[russia, war, military, revolution, event]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova
 confidence: high

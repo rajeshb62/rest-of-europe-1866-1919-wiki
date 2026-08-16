@@ -3,7 +3,7 @@ title: "Francesco Crispi (1818–1901)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, nationalism, colonialism, empire, war, parliament, revolution, person]
+tags: "[italy, nationalism, colonialism, empire, war, parliament, revolution, person]"
 sources:
   - source: oriani-la-lotta-politica-in-italia-vol3-1892
   - source: fortunato-il-mezzogiorno-e-lo-stato-italiano-discorsi-politici-vol2-1911

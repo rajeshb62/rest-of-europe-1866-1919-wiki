@@ -3,7 +3,7 @@ title: "Boulanger Crisis (1886–1889)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, third-republic, nationalism, parliament, militarism, event]
+tags: "[france, third-republic, nationalism, parliament, militarism, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t4
 confidence: low

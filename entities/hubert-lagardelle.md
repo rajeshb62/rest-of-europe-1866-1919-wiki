@@ -3,7 +3,7 @@ title: "Hubert Lagardelle (1875–1958)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, third-republic, socialism, syndicalism, person]
+tags: "[france, third-republic, socialism, syndicalism, person]"
 sources:
   - source: lagardelle-socialisme-ouvrier-1911
 confidence: high

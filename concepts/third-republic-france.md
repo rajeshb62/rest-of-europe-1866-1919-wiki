@@ -3,7 +3,7 @@ title: "Third Republic, France (1870–1940)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, republic, constitution, parliament, revolution, state]
+tags: "[france, republic, constitution, parliament, revolution, state]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
   - source: hanotaux-histoire-france-contemporaine-t2

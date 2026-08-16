@@ -3,7 +3,7 @@ title: "Ferenc Deák (1803–1876)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [hungary, austria-hungary, constitution, person]
+tags: "[hungary, austria-hungary, constitution, person]"
 sources:
   - source: beksics-a-dualismus-1892
   - source: sosnosky-die-politik-im-habsburgerreiche-1913

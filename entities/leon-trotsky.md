@@ -3,7 +3,7 @@ title: "Leon Trotsky (1879–1940)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, october-revolution-1917, treaty-of-brest-litovsk-1918, socialism, person]
+tags: "[russia, october-revolution-1917, treaty-of-brest-litovsk-1918, socialism, person]"
 sources:
   - source: czernin-im-weltkriege-1919
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1

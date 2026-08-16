@@ -3,7 +3,7 @@ title: "Count de Palikao (1796–1878)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, war, military, second-empire, person]
+tags: "[france, war, military, second-empire, person]"
 sources:
   - source: ollivier-empire-liberal-t16
   - source: hanotaux-histoire-france-contemporaine-t1

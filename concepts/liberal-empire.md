@@ -3,7 +3,7 @@ title: "Liberal Empire (Empire libéral, 1869–1870)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, empire, liberalism, parliament, constitution, monarchy]
+tags: "[france, empire, liberalism, parliament, constitution, monarchy]"
 sources:
   - source: ollivier-empire-liberal-t11
   - source: delord-histoire-second-empire-t5

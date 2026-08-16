@@ -3,7 +3,7 @@ title: "Otto von Bismarck (1815–1898)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [germany, prussia, conservatism, parliament, unification, german-question, person]
+tags: "[germany, prussia, conservatism, parliament, unification, german-question, person]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
   - source: sybel-begrundung-des-deutschen-reiches-vol4

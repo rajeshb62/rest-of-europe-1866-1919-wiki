@@ -3,7 +3,7 @@ title: "The July Crisis (1914)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [austria-hungary, serbia, russia, germany, diplomacy, war, wwi, event]
+tags: "[austria-hungary, serbia, russia, germany, diplomacy, war, wwi, event]"
 sources:
   - source: czernin-im-weltkriege-1919
   - source: conrad-aus-meiner-dienstzeit-bd4-1923

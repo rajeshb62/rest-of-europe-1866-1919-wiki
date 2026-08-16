@@ -3,7 +3,7 @@ title: "Founding of the North German Confederation (1867)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [germany, prussia, constitution, parliament, diplomacy, unification, german-question, event]
+tags: "[germany, prussia, constitution, parliament, diplomacy, unification, german-question, event]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol6
   - source: sybel-begrundung-des-deutschen-reiches-vol7

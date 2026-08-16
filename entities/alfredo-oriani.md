@@ -3,7 +3,7 @@ title: "Alfredo Oriani (1852–1909)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, nationalism, risorgimento, person]
+tags: "[italy, nationalism, risorgimento, person]"
 sources:
   - source: oriani-la-lotta-politica-in-italia-vol1-1892
   - source: oriani-la-lotta-politica-in-italia-vol2-1892

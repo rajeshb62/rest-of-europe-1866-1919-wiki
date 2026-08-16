@@ -3,7 +3,7 @@ title: "Revolutionary Syndicalism"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, socialism, labour, revolution, ideology]
+tags: "[france, socialism, labour, revolution, ideology]"
 sources:
   - source: lagardelle-socialisme-ouvrier-1911
 confidence: medium

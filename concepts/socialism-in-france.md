@@ -3,7 +3,7 @@ title: "Socialism in France (1870s–1900s)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, socialism, syndicalism, parliament, ideology]
+tags: "[france, socialism, syndicalism, parliament, ideology]"
 sources:
   - source: lagardelle-socialisme-ouvrier-1911
   - source: peguy-notre-jeunesse-1910

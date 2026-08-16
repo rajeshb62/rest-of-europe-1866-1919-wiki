@@ -3,7 +3,7 @@ title: "The Bosnian Annexation Crisis (1908–1909)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [austria-hungary, balkans, serbia, russia, diplomacy, nationalism, crisis, event]
+tags: "[austria-hungary, balkans, serbia, russia, diplomacy, nationalism, crisis, event]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914
   - source: sosnosky-die-politik-im-habsburgerreiche-1913

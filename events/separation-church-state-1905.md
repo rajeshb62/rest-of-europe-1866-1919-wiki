@@ -3,7 +3,7 @@ title: "Separation of Church and State (1905)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, church, religion, anticlericalism, revolution, event]
+tags: "[france, church, religion, anticlericalism, revolution, event]"
 sources:
   - source: sabatier-orientation-religieuse-france-1911
   - source: peguy-notre-jeunesse-1910

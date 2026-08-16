@@ -3,7 +3,7 @@ title: "Unrestricted Submarine Warfare (1917)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [germany, war, navy, diplomacy, wwi, alliance]
+tags: "[germany, war, navy, diplomacy, wwi, alliance]"
 sources:
   - source: czernin-im-weltkriege-1919
   - source: recouly-histoire-grande-guerre-1914-1918

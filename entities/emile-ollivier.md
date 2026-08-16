@@ -3,7 +3,7 @@ title: "Émile Ollivier (1825–1913)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, liberalism, parliament, second-empire-france, liberal-empire, person]
+tags: "[france, liberalism, parliament, second-empire-france, liberal-empire, person]"
 sources:
   - source: delord-histoire-second-empire-t5
   - source: ollivier-empire-liberal-t14

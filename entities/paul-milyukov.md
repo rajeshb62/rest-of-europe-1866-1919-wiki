@@ -3,7 +3,7 @@ title: "Paul Milyukov (1859–1943)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, liberalism, parliament, revolution, person]
+tags: "[russia, liberalism, parliament, revolution, person]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1

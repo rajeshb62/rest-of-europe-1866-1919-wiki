@@ -3,7 +3,7 @@ title: "Battle of Custoza (24 June 1866)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, battle, risorgimento, unification]
+tags: "[italy, austria-hungary, war, battle, risorgimento, unification]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol5
 confidence: high

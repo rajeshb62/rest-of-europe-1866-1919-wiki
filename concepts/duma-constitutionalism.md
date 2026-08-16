@@ -3,7 +3,7 @@ title: "The Duma and Constitutionalism"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [russia, constitution, parliament, liberalism, monarchy, concept]
+tags: "[russia, constitution, parliament, liberalism, monarchy, concept]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
   - source: granat-istoriya-rossii-xix-veke-t8

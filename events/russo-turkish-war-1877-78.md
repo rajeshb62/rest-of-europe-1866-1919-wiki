@@ -3,7 +3,7 @@ title: "Russo-Turkish War (1877–1878)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, balkans, ottoman, war, eastern-question, diplomacy]
+tags: "[russia, balkans, ottoman, war, eastern-question, diplomacy]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
 confidence: high

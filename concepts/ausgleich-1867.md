@@ -3,7 +3,7 @@ title: "The Ausgleich (Compromise) of 1867"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [austria-hungary, hungary, constitution, treaty, metatype]
+tags: "[austria-hungary, hungary, constitution, treaty, metatype]"
 sources:
   - source: beksics-a-dualismus-1892
   - source: sosnosky-die-politik-im-habsburgerreiche-1913

@@ -3,7 +3,7 @@ title: "Jules Grévy (1807–1891)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [france, republicanism, parliament, person, third-republic]
+tags: "[france, republicanism, parliament, person, third-republic]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t3
   - source: hanotaux-histoire-france-contemporaine-t4

@@ -3,7 +3,7 @@ title: "Vladimir Lenin (1870–1924)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, revolution, socialism, wwi, person]
+tags: "[russia, revolution, socialism, wwi, person]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: denikin-ocherki-russkoj-smuty-t2-borba-generala-kornilova

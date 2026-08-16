@@ -3,7 +3,7 @@ title: "The Battle of Mentana (3 November 1867)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, rome, war, risorgimento, garibaldi, church, papal-states]
+tags: "[italy, rome, war, risorgimento, garibaldi, church, papal-states]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870
   - source: oriani-la-lotta-politica-in-italia-vol3-1892

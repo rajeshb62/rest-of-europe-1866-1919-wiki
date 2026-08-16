@@ -3,7 +3,7 @@ title: "Camillo Cavour (1810–1861)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [italy, liberalism, parliament, unification, risorgimento, diplomacy, person]
+tags: "[italy, liberalism, parliament, unification, risorgimento, diplomacy, person]"
 sources:
   - source: tivaroni-litalia-degli-italiani-tomo2-1859-1866
   - source: tivaroni-litalia-degli-italiani-tomo3-1866-1870

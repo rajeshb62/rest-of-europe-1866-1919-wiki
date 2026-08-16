@@ -3,7 +3,7 @@ title: "The Kulturkampf (1871–c. 1879)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [germany, prussia, church, liberalism, conservatism, culturkampf, metatype]
+tags: "[germany, prussia, church, liberalism, conservatism, culturkampf, metatype]"
 sources:
   - source: lenz-geschichte-bismarcks-1902
 confidence: high

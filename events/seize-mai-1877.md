@@ -3,7 +3,7 @@ title: "Seize Mai crisis (16 May 1877)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [france, constitution, parliament, event]
+tags: "[france, constitution, parliament, event]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t3
   - source: hanotaux-histoire-france-contemporaine-t4

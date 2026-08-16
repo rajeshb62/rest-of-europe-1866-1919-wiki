@@ -3,7 +3,7 @@ title: "Battle of Lissa (20 July 1866)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [italy, austria-hungary, war, navy, battle, risorgimento, unification]
+tags: "[italy, austria-hungary, war, navy, battle, risorgimento, unification]"
 sources:
   - source: sybel-begrundung-des-deutschen-reiches-vol5
 confidence: medium

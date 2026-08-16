@@ -3,7 +3,7 @@ title: "Pyotr Stolypin (1862–1911)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, parliament, revolution, conservatism, person]
+tags: "[russia, parliament, revolution, conservatism, person]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
   - source: granat-istoriya-rossii-xix-veke-t8

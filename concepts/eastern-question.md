@@ -3,7 +3,7 @@ title: "The Eastern Question"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [eastern-question, ottoman, balkans, austria-hungary, russia, diplomacy, concept]
+tags: "[eastern-question, ottoman, balkans, austria-hungary, russia, diplomacy, concept]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd1-1914
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914

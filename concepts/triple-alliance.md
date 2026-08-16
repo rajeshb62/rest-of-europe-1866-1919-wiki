@@ -3,7 +3,7 @@ title: "Triple Alliance (1882)"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [diplomacy, alliance, germany, austria-hungary, italy, balkans]
+tags: "[diplomacy, alliance, germany, austria-hungary, italy, balkans]"
 sources:
   - source: sosnosky-die-balkanpolitik-osterreich-ungarns-bd2-1914
   - source: sosnosky-die-politik-im-habsburgerreiche-1913

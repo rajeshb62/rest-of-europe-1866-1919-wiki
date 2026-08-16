@@ -3,7 +3,7 @@ title: "The February Revolution (1917)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, revolution, monarchy, parliament, war, event]
+tags: "[russia, revolution, monarchy, parliament, war, event]"
 sources:
   - source: denikin-ocherki-russkoj-smuty-t1-vyp1
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1

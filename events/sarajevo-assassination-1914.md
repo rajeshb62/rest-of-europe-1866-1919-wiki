@@ -3,7 +3,7 @@ title: "The Sarajevo Assassination (1914)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [austria-hungary, balkans, serbia, assassination, wwi, monarchy, nationalism, event]
+tags: "[austria-hungary, balkans, serbia, assassination, wwi, monarchy, nationalism, event]"
 sources:
   - source: conrad-aus-meiner-dienstzeit-bd4-1923
   - source: czernin-im-weltkriege-1919

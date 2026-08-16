@@ -3,7 +3,7 @@ title: "Nicholas II (1868–1918)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, monarchy, revolution, wwi, person]
+tags: "[russia, monarchy, revolution, wwi, person]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
   - source: zhevakhov-vospominaniya-tovarishcha-ober-prokurora-t1

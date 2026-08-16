@@ -3,7 +3,7 @@ title: "Republicanism in France"
 created: 2026-08-16
 updated: 2026-08-16
 type: concept
-tags: [france, republic, liberalism, revolution, church, ideology]
+tags: "[france, republic, liberalism, revolution, church, ideology]"
 sources:
   - source: hanotaux-histoire-france-contemporaine-t1
   - source: hanotaux-histoire-france-contemporaine-t3

@@ -3,7 +3,7 @@ title: "The October Manifesto (1905)"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, revolution, constitution, monarchy, parliament, liberalism, event]
+tags: "[russia, revolution, constitution, monarchy, parliament, liberalism, event]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
 confidence: high

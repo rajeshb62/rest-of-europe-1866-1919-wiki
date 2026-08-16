@@ -3,7 +3,7 @@ title: "Alexander III (1845–1894)"
 created: 2026-08-16
 updated: 2026-08-16
 type: entity
-tags: [russia, monarchy, conservatism, finance, diplomacy, person]
+tags: "[russia, monarchy, conservatism, finance, diplomacy, person]"
 sources:
   - source: kornilov-kurs-istorii-rossii-ch3
   - source: witte-vospominaniya-t1-detstvo-aleksandr-ii-iii-1960

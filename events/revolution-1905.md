@@ -3,7 +3,7 @@ title: "Russian Revolution of 1905"
 created: 2026-08-16
 updated: 2026-08-16
 type: event
-tags: [russia, revolution, socialism, parliament, monarchy, event]
+tags: "[russia, revolution, socialism, parliament, monarchy, event]"
 sources:
   - source: witte-vospominaniya-t2-3-nikolay-ii-1960
 confidence: high
