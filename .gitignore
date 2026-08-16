@@ -1,0 +1,7 @@
+# Extraction scratch dirs (page-OCR leaves, not wiki content)
+delord-histoire-second-empire-t4/
+delord-histoire-second-empire-t6/
+*.zip
+*.pdf
+*.epub
+_meta/
