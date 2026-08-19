@@ -1,7 +1,29 @@
+.DS_Store
+.obsidian/
+__pycache__/
+*.pyc
+_meta/
+
 # Extraction scratch dirs (page-OCR leaves, not wiki content)
 delord-histoire-second-empire-t4/
 delord-histoire-second-empire-t6/
+
+# Source volumes and full-text OCR — copyright surface, regenerable via ocr-all.sh
+*.txt
 *.zip
 *.pdf
 *.epub
-_meta/
+*.djvu
+*.azw3
+*.mobi
+
+# Images and charts — regenerable from the map_*.py scripts, which ARE tracked
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.jpx
+*.webp
+*.tif
+*.tiff
